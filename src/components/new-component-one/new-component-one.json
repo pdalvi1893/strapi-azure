@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_new_component_one_new_component_ones",
+  "info": {
+    "displayName": "NewComponentOne",
+    "icon": "arrowUp"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

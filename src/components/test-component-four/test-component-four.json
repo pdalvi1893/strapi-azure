@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_test_component_four_test_component_fours",
+  "info": {
+    "displayName": "TestComponentFour",
+    "icon": "book"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

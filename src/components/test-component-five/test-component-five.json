@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_test_component_five_test_component_fives",
+  "info": {
+    "displayName": "TestComponentFive",
+    "icon": "arrowUp"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    }
+  }
+}

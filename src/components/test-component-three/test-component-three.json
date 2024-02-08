@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_test_component_three_test_component_threes",
+  "info": {
+    "displayName": "TestComponentThree",
+    "icon": "bold",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "titletext": {
+      "type": "string"
+    }
+  }
+}
